@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhupinder69Singh
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning CSE 3rd year
+- 🌱 I’m currently learning CSE 4th year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhupindersinghsahmey@gmail.com
 
